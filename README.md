@@ -16,6 +16,7 @@ This project is part of my Part One for my programming POE.
 * **Password Complexity:** Validates that the user password is atleast eight characters long and contains a capital letter, a number and a special character.
 * **Phone Number Validation:** Verifies that the cellphone number includes the South African International code (+27) and also that number is the correct length.
 * **Messages:** Creates and stores messages inserted by the user.
+* **Array List:** Utlizes array list to store and display the messages entered by the user.
 * **Automated Testing:** Used JUnit 5 to test the validation logic, ensure that the methods work as expected.
 
 ##File Navigation 
