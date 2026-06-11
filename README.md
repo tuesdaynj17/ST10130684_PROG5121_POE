@@ -6,7 +6,7 @@
 #### Module: PROG5121
   
 ---
-##Description 
+##Description
 This project is a Java-based application coded to handle a users registration and login details.
 The project focuses on ensuring that the user inserts the correct information, that must meet certain conditions.
 This project is part of my Part One for my programming POE.
@@ -17,6 +17,7 @@ This project is part of my Part One for my programming POE.
 * **Phone Number Validation:** Verifies that the cellphone number includes the South African International code (+27) and also that number is the correct length.
 * **Messages:** Creates and stores messages inserted by the user.
 * **Array List:** Utlizes array list to store and display the messages entered by the user.
+* **JSON Function:** Where information is stored in a local file.
 * **Automated Testing:** Used JUnit 5 to test the validation logic, ensure that the methods work as expected.
 
 ##File Navigation 
