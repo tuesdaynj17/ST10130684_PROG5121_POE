@@ -1,4 +1,4 @@
-# Chat Application - Part 1
+# Chat Application - POE
 
 ## Student Information 
 #### Name: Okuhle
